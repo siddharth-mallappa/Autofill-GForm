@@ -1,3 +1,3 @@
 # Autofill-GForm
 
-![](example.gif)
+![](Example.gif)
